@@ -4,7 +4,7 @@ Priyankan-V/Priyankan-V is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Priyankan V.</h1>
-<h3 align="center">A passionate in Robotics and Computer Vision</h3>
+<h3 align="center">A passionate in Embedded Systems and Robotics</h3>
 
 - 🌱 I’m a final year **Electronic and Telecommunication Engineering undergraduate** with hands-on experience across embedded systems, IoT, and software development. Strong interest in embedded systems engineering and product development, with practical exposure to firmware development, system integration, backend-connected applications, and building reliable, maintainable software-driven solutions under real-world engineering constraints.
 
