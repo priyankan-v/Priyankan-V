@@ -27,28 +27,6 @@ I enjoy building **real-world engineering solutions**, combining firmware, backe
 
 ---
 
-# 🚀 Core Focus Areas
-
-### Embedded Systems
-• Firmware Development  
-• Microcontroller Programming  
-• Hardware Interfacing  
-• Real-time systems
-
-### Software Engineering
-• Backend connected systems  
-• Scalable application design  
-• System architecture  
-• Clean and maintainable software
-
-### Intelligent Systems
-• Robotics  
-• Computer Vision  
-• Machine Learning  
-• AI integrated systems
-
----
-
 # 💻 Programming Languages
 
 <p align="left">
@@ -166,6 +144,29 @@ I enjoy building **real-world engineering solutions**, combining firmware, backe
 </a>
 
 </p>
+
+---
+
+# 🚀 Core Focus Areas
+
+### Embedded Systems
+• Firmware Development  
+• Microcontroller Programming  
+• Hardware Interfacing  
+• Real-time systems
+
+### Software Engineering
+• Backend connected systems  
+• Scalable application design  
+• System architecture  
+• Clean and maintainable software
+
+### Intelligent Systems
+• Robotics  
+• Computer Vision  
+• Machine Learning  
+• AI integrated systems
+
 
 ---
 
