@@ -146,7 +146,7 @@ I enjoy building **real-world engineering solutions**, combining firmware, backe
 </p>
 
 ---
-
+<!--
 # 🚀 Core Focus Areas
 
 ### Embedded Systems
