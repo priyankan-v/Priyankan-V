@@ -43,12 +43,12 @@ I enjoy building **real-world engineering solutions**, combining firmware, backe
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
-
 <a href="https://www.java.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="45" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </a>
 
 </p>
@@ -170,9 +170,11 @@ I enjoy building **real-world engineering solutions**, combining firmware, backe
 
 ---
 
+<!-- 
 # ⚡ Philosophy
 
 > Explore widely. Build deeply. Connect hardware with intelligent software.
+-->
 
 I enjoy creating **systems that combine embedded hardware, scalable software, and intelligent algorithms** to solve real-world problems.
 
