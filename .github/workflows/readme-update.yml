@@ -1,0 +1,94 @@
+name: README Update
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate weekly schedule
+        run: |
+          DAY=$(date +%u)
+
+          if [ "$DAY" -eq 1 ]; then
+            rm -f .commit_schedule
+            for d in $(shuf -i 1-7 -n 4)
+            do
+              h=$(shuf -i 0-23 -n 1)
+              echo "$d-$h" >> .commit_schedule
+            done
+          fi
+
+          if [ ! -f .commit_schedule ]; then
+            echo "1-10" > .commit_schedule
+            echo "3-14" >> .commit_schedule
+            echo "5-18" >> .commit_schedule
+            echo "7-21" >> .commit_schedule
+          fi
+
+      - name: Commit schedule if changed
+        run: |
+          git config user.name "Priyankan Vettivel"
+          git config user.email "YOUR_GITHUB_EMAIL"
+
+          git add .commit_schedule
+          git commit -m "Updateed commit schedule" || exit 0
+          git push
+
+      - name: Decide if commit should run
+        id: decision
+        run: |
+          DAY=$(date +%u)
+          HOUR=$(date +%H)
+
+          if grep -q "^$DAY-$HOUR$" .commit_schedule; then
+            echo "run_update=true" >> $GITHUB_OUTPUT
+          else
+            echo "run_update=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Random delay before starting
+        if: steps.decision.outputs.run_update == 'true'
+        run: |
+          DELAY=$((RANDOM % 1800))
+          echo "Sleeping for $DELAY seconds..."
+          sleep $DELAY
+
+      - name: Perform commits
+        if: steps.decision.outputs.run_update == 'true'
+        run: |
+          git config user.name "Priyankan V"
+          git config user.email "priyankanvettivel@gmail.com"
+
+          COMMITS=$((RANDOM % 3 + 1))
+
+          echo "Making $COMMITS commits"
+
+          for i in $(seq 1 $COMMITS)
+          do
+            DATE=$(date +"%Y-%m-%d %H:%M:%S")
+
+            sed -i '/Last updated on:/d' README.md
+            echo "" >> README.md
+            echo "Last updated on: $DATE" >> README.md
+
+            git add README.md
+            git commit -m "README update on $DATE" || true
+            git push
+
+            if [ "$i" -lt "$COMMITS" ]; then
+              SLEEP_TIME=$((RANDOM % 600))
+              echo "Waiting $SLEEP_TIME seconds before next commit"
+              sleep $SLEEP_TIME
+            fi
+          done
