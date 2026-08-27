@@ -3,7 +3,7 @@ Priyankan-V/Priyankan-V is a ✨ special ✨ repository because its README.md ap
 --->
 
 <h1 align="center">Hi 👋 I'm Priyankan Vettivel</h1>
-<h3 align="center">Embedded Systems & Software Engineer | IT Explorer</h3>
+<h3 align="center">Robotics and Embedded Systems Engineer </h3>
 
 <p align="center">
 Exploring technology from low-level hardware to scalable intelligent software systems.
