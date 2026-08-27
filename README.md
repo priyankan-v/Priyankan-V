@@ -13,7 +13,8 @@ Exploring technology from low-level hardware to scalable intelligent software sy
 
 # 👨‍💻 About Me
 
-🎓 Final Year **Electronic and Telecommunication Engineering Undergraduate** at **University of Moratuwa**
+🎓 MS student | **Mechanical and Aerospace Engineering** at **Oklahoma State University**  
+🎓 **Electronic and Telecommunication Engineering graduate** from **University of Moratuwa**
 
 💡 My interests span across multiple areas of computing and engineering, with a core focus on **Embedded Systems and Software Engineering**, developing reliable systems that integrate hardware and software.
 
