@@ -2,7 +2,7 @@
 Priyankan-V/Priyankan-V is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
 
-<h1 align="center">Hi 👋 I'm Priyankan Vettivel</h1>
+<h1 align="center">Hi, I'm Priyankan Vettivel</h1>
 <h3 align="center">Robotics and Embedded Systems Engineer </h3>
 
 <p align="center">
@@ -11,20 +11,22 @@ Exploring technology from low-level hardware to scalable intelligent software sy
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
 🎓 MS student | **Mechanical and Aerospace Engineering** at **Oklahoma State University**  
 🎓 **Electronic and Telecommunication Engineering graduate** from **University of Moratuwa**
 
-💡 My interests span across multiple areas of computing and engineering, with a core focus on **Embedded Systems and Software Engineering**, developing reliable systems that integrate hardware and software.
+My interests span across multiple areas of computing and engineering, with a core focus on **Embedded Systems and Robotics Software Engineering**, developing reliable systems that integrate hardware and software.
 
 My technical exploration progresses through interconnected domains:
 
 **Embedded Systems | IoT | Robotics | Computer Vision | Machine Learning | Artificial Intelligence | Web Applications | Software Engineering | Networking | Platform Infrastructure | Data Science | DevOps**
 
+<!---
 I enjoy building **real-world engineering solutions**, combining firmware, backend systems, and intelligent algorithms.
+--->
 
-📫 Reach me at **priyankanvettivel@gmail.com**
+Reach me at **priyankanvettivel@gmail.com**
 
 ---
 
@@ -113,101 +115,4 @@ I enjoy creating **systems that combine embedded hardware, scalable software, an
 
 ⭐ Always open to collaboration on **Embedded Systems, Robotics, AI, and Software Engineering projects**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Last updated on: 2026-09-26
+2026-09-29
