@@ -18,6 +18,7 @@ Exploring technology from low-level hardware to scalable intelligent software sy
 
 My interests span across multiple areas of computing and engineering, with a core focus on **Embedded Systems and Robotics Software Engineering**, developing reliable systems that integrate hardware and software.
 
+<!---
 My technical exploration progresses through interconnected domains:
 
 **Embedded Systems | IoT | Robotics | Computer Vision | Machine Learning | Artificial Intelligence | Web Applications | Software Engineering | Networking | Platform Infrastructure | Data Science | DevOps**
@@ -27,7 +28,7 @@ I enjoy building **real-world engineering solutions**, combining firmware, backe
 --->
 
 Reach me at **priyankanvettivel@gmail.com**
-
+<!--
 ---
 
 # 💻 Programming Languages
@@ -107,23 +108,10 @@ Reach me at **priyankanvettivel@gmail.com**
 # ⚡ Philosophy
 
 > Explore widely. Build deeply. Connect hardware with intelligent software.
--->
+
 
 I enjoy creating **systems that combine embedded hardware, scalable software, and intelligent algorithms** to solve real-world problems.
 
 ---
-
-⭐ Always open to collaboration on **Embedded Systems, Robotics, AI, and Software Engineering projects**
-
-2026-09-29
-
-
-
-
-
-
-
-
-
-
-Last updated on: 2026-10-28
+-->
+*Always open to collaboration on **Embedded Systems, Robotics, AI, and Software Engineering projects**
