@@ -6,17 +6,24 @@ Priyankan-V/Priyankan-V is a ✨ special ✨ repository because its README.md ap
 <h3 align="center">Robotics and Embedded Systems Engineer </h3>
 
 <p align="center">
-Exploring technology from low-level hardware to scalable intelligent software systems.
+Developing systems that connect embedded hardware, robotics software, and intelligent algorithms.
 </p>
 
 ---
 
 ## About Me
 
-🎓 MS student | **Mechanical and Aerospace Engineering** at **Oklahoma State University**  
-🎓 **Electronic and Telecommunication Engineering graduate** from **University of Moratuwa**
+🎓 MS student in **Mechanical and Aerospace Engineering** at **Oklahoma State University**
 
-My interests span across multiple areas of computing and engineering, with a core focus on **Embedded Systems and Robotics Software Engineering**, developing reliable systems that integrate hardware and software.
+🎓 **Electronic and Telecommunication Engineering graduate** from the **University of Moratuwa**
+
+My core interests are **embedded systems and robotics software engineering**, particularly hardware-software integration. I also work on projects involving computer vision, machine learning, and software development.
+
+I welcome opportunities to collaborate on research and engineering projects in **robotics, embedded systems, AI, and software engineering**.
+
+📫 **Email:** [priyankanvettivel@gmail.com](mailto:priyankanvettivel@gmail.com)
+
+🌐 **Explore my projects and professional background:** [priyankan-v.github.io](https://priyankan-v.github.io/)
 
 <!---
 My technical exploration progresses through interconnected domains:
@@ -27,7 +34,6 @@ My technical exploration progresses through interconnected domains:
 I enjoy building **real-world engineering solutions**, combining firmware, backend systems, and intelligent algorithms.
 --->
 
-Reach me at **priyankanvettivel@gmail.com**
 <!--
 ---
 
@@ -114,4 +120,6 @@ I enjoy creating **systems that combine embedded hardware, scalable software, an
 
 ---
 -->
-*Always open to collaboration on **Embedded Systems, Robotics, AI, and Software Engineering projects**
+
+
+
